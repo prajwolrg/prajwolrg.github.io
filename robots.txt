@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://prajwolrg.github.io/sitemap.xml
+Host: https://prajwolrg.github.io
