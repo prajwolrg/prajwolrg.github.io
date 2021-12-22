@@ -10,4 +10,3 @@ url: 'http://ibriz.ai/'
 - Contributed to ICON Developers HUB by creating tools for writing, deploying and operating decentralized applications.
 - Coded and published simplified version of SCORE boilerplate to get started in the platform.
 - Published a well-managed course content for on-boarding new developers to the ICON ecosystem.
-- Updated the iconbet platform to allow TAP staking
